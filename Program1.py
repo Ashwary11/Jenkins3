@@ -1,0 +1,3 @@
+a = "GOOD MORNING HOW ARE YOU TODAY."
+b = "MAY I HELP YOU!"
+print(a+b)
