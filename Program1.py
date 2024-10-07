@@ -1,3 +1,3 @@
 a = "GOOD MORNING HOW ARE YOU TODAY."
-b = "MAY I HELP YOU!"
+b = "HAVE A NICE DAY."
 print(a+b)
